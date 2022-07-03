@@ -1,0 +1,24 @@
+{
+  "name": "demo-api",
+  "version": "1.0.0",
+  "description": "just a simple api to test github actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RichardAlmanza/demo-gh-actions.git"
+  },
+  "keywords": [
+    "demo",
+    "github",
+    "actions"
+  ],
+  "author": "Richard Almanza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RichardAlmanza/demo-gh-actions/issues"
+  },
+  "homepage": "https://github.com/RichardAlmanza/demo-gh-actions#readme"
+}
