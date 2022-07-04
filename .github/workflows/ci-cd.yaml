@@ -5,13 +5,13 @@ on:
       - api/**
       - ./github/workflows/ci-cd.yaml
     branches:
-      - master
+      - main
   pull_request:
     paths:
       - api/**
       - ./github/workflows/ci-cd.yaml
     branches:
-      - master
+      - main
 
 jobs:
   test:
