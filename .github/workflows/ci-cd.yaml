@@ -3,11 +3,13 @@ on:
   push:
     paths:
       - api/**
+      - ./github/workflows/ci-cd.yaml
     branches:
       - master
   pull_request:
     paths:
       - api/**
+      - ./github/workflows/ci-cd.yaml
     branches:
       - master
 
